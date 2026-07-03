@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Akhila D 👋
 
 🎓 B.Tech in Artificial Intelligence & Data Science at **Chaitanya Bharathi Institute of Technology (CBIT)**
