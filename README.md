@@ -1,90 +1,128 @@
+<div align="center">
 
-# Hi, I'm Akhila D 👋
+<img src="assets/terminal.gif" width="900" alt="Akhila Doddigarla — software development, AI and cybersecurity" />
 
-🎓 B.Tech in Artificial Intelligence & Data Science at **Chaitanya Bharathi Institute of Technology (CBIT)**
+### Building useful software. Exploring intelligent systems.
 
-I'm passionate about building software that combines **Java, Artificial Intelligence, Machine Learning, and Cybersecurity** to solve real-world problems. I enjoy developing scalable applications, learning new technologies, and contributing to impactful projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doddigarlaakhila)
+[![Email](https://img.shields.io/badge/Email-Say_hello-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ugs23078_aids.akhila@cbit.org.in)
+[![Projects](https://img.shields.io/badge/GitHub-Explore_projects-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakhila201105?tab=repositories)
 
-## Tech Stack
+[About](#about-me) · [Projects](#featured-projects) · [Stack](#tools-i-work-with) · [Activity](#coding-activity) · [Beyond code](#beyond-code)
 
-**Languages**
+</div>
 
-Java • Python • SQL 
+## About me
 
-**Frameworks & Libraries**
+I'm **Akhila Doddigarla**, an **AI & Data Science student at CBIT, Hyderabad (2023–2027)**. I enjoy connecting software development, machine learning, and security through practical projects.
 
-FastAPI • Pandas • NumPy • Scikit-learn • Librosa
+- **Building:** authentication prototypes, web applications, and applied AI projects.
+- **Learning:** C# / .NET, dynamic programming, and core computer science.
+- **Interested in:** software engineering and AI / data science internship opportunities.
+- **Outside the editor:** public speaking, event coordination, and bringing people together around technology.
 
-**Tools**
+## Featured projects
 
-Git • GitHub • Linux • Unity 
+| Project | What it explores | Main tools |
+| :--- | :--- | :--- |
+| **CloudSentinel** | Context-aware authentication and behavioural anomaly detection | Python · Flask · Isolation Forest |
+| **IIoT command authorization** | Hardware-backed transaction approval using visual cryptography | Raspberry Pi · MQTT · Flask |
+| **[RoadCodeX](https://github.com/dakhila201105/RodeCODEX)** | Driving-school simulation in a 3D environment | Unity · C# |
+| **[Construction Air Quality Monitor](https://github.com/dakhila201105/air_quality_construction)** | Applying AI to construction-site air quality monitoring | Python · Machine learning |
 
-**Core Concepts**
+<details>
+<summary><b>🔐 Explore CloudSentinel</b> — authentication with context</summary>
 
-Data Structures & Algorithms • Object-Oriented Programming • REST APIs • Machine Learning • Computer Vision
+A Flask-based zero-trust authentication prototype combining passwords, email OTP, device fingerprinting, risk scoring, and Isolation Forest anomaly detection. Contextual checks help decide whether to allow, deny, or send a request for administrator review.
+
+**What I explored:** connecting ML output with application decisions, audit logging, and active-session monitoring.
+
+</details>
+
+<details>
+<summary><b>🏭 Explore IIoT authorization</b> — software meets hardware</summary>
+
+A Raspberry Pi-based bank transaction approval prototype using visual cryptography shares and challenge-response verification. MQTT carries transaction-specific responses to the Flask server.
+
+**What I explored:** hardware integration, nonce validation, device binding, and transaction-specific messaging.
+
+</details>
+
+<details>
+<summary><b>🚗 Explore RoadCodeX</b> — learning through simulation</summary>
+
+A Unity 3D driving-school project focused on an interactive driving environment.
+
+[Browse the repository →](https://github.com/dakhila201105/RodeCODEX)
+
+</details>
+
+<details>
+<summary><b>🌿 Explore air quality monitoring</b> — AI with an environmental purpose</summary>
+
+Developed during my 1M1B internship, this project focuses on construction-site air quality, with fieldwork around Kokapet and exploration of monitoring, prediction, and mitigation guidance.
+
+[Browse the repository →](https://github.com/dakhila201105/air_quality_construction)
+
+</details>
+
+## Tools I work with
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,spring,tensorflow,git,github,linux,unity,raspberrypi&perline=7" alt="Python, Java, JavaScript, HTML, CSS, React, Flask, Spring, TensorFlow, Git, GitHub, Linux, Unity and Raspberry Pi" />
+</div>
+
+| Area | Experience and focus |
+| :--- | :--- |
+| **Application development** | Python, Java, JavaScript, React, Flask, Spring Boot |
+| **AI & data** | TensorFlow, scikit-learn, pandas, NumPy |
+| **Security & hardware** | Visual cryptography, MQTT, Raspberry Pi, Wireshark, OWASP labs |
+| **Currently learning** | C# / .NET, DSA and dynamic programming |
+
+## Coding activity
+
+[**My DSA practice repository →**](https://github.com/dakhila201105/LeetcodeDSA)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dakhila201105&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=2dd4bf&text_color=cbd5e1&rank_icon=github" width="480" alt="Live GitHub statistics — open my profile if the card is temporarily unavailable" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakhila201105&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" width="350" alt="Languages across public repositories" />
+
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dakhila201105&bg_color=0d1117&color=a78bfa&line=2dd4bf&point=c4b5fd&area=true&hide_border=true)](https://github.com/dakhila201105)
+
+</div>
+
+### My contribution city
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar generated daily from GitHub activity" width="100%" />
+</picture>
+
+<sub>Generated daily by GitHub Actions. Contributions reflect GitHub's attribution rules; language cards describe repository composition.</sub>
+
+## Beyond code
+
+- **CyberFest 2026:** helped coordinate a cybersecurity and blockchain conclave with **500+ registrations**, connecting participants, speakers, judges, and partners.
+- **1M1B internship:** explored construction-site air quality through project work and field visits.
+- **Web development & cybersecurity internships:** built web fundamentals and practised security testing in learning environments.
+- **Salesforce learning:** exploring Apex, platform development, and Agentforce through Trailhead.
+
+<details>
+<summary><b>What I'm working toward</b></summary>
+
+Building stronger software fundamentals, improving my problem-solving consistency, and turning project prototypes into clearer, better-tested applications.
+
+I'm happy to connect about software engineering, applied AI, cybersecurity, and student technology communities.
+
+</details>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### 🚗 RoadCodeX – Virtual Driving School
-A 3D driving simulation game developed using **Unity** and **C#**, featuring realistic vehicle physics, collision detection, dynamic camera controls, and interactive UI.
+**Let's build something useful.**
 
-### 📅 Automated Task Reminder & Tracking System
-A Java application developed during the Infosys Springboard Internship with task scheduling, reminders, and status tracking using Object-Oriented Programming principles.
+[LinkedIn](https://www.linkedin.com/in/doddigarlaakhila) · [Email](mailto:ugs23078_aids.akhila@cbit.org.in) · [GitHub](https://github.com/dakhila201105)
 
-### 🎤 SonicX – AI Event Safety Monitoring
-An AI-powered event monitoring system that detects distress signals and emergency keywords from live audio streams using Python and Librosa.
-
-### 🏦 AI-Powered Remote Gold Assessment Platform
-A FastAPI-based application that leverages computer vision for gold hallmark recognition, fraud detection, and loan eligibility assessment.
-
-### 🔐 Secure Bank Server with Cryptographic Layer *(Ongoing)*
-A secure banking server implementing encryption, authentication, and secure communication principles.
-
-### ❤️ Empathy Metrics
-A web application that recommends empathetic responses to workplace scenarios using keyword analysis and AI-assisted evaluation.
-
----
-
-## Experience
-
-**AI & ML Intern** — Quadrant Technologies
-
-**Virtual Java Intern** — Infosys Springboard
-
-**Green Internship** — 1M1B
-
----
-
-## Leadership
-
-- Organizer, **CyberFest 2026** (Managed 500+ participants across multiple colleges)
-- Organizer, **Women Ideathon 1.0**
-
----
-
-## Certifications
-
-- Microsoft Certified: Azure Fundamentals
-- Salesforce Certified Agentforce Specialist
-- MongoDB Certified Associate Developer
-
----
-
-## Currently Learning
-
-- Spring Boot
-- System Design
-- Cloud Computing
-- Advanced Data Structures & Algorithms
-
----
-
-## Connect
-
-📧 **Email:** akhila8812@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/doddigarlaakhila
-
-💻 **GitHub:** https://github.com/dakhila201105
+</div>
