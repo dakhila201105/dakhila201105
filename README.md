@@ -88,7 +88,7 @@ Developed during my 1M1B internship, this project focuses on construction-site a
 <img src="https://github-readme-stats.vercel.app/api?username=dakhila201105&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=2dd4bf&text_color=cbd5e1&rank_icon=github" width="480" alt="Live GitHub statistics — open my profile if the card is temporarily unavailable" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakhila201105&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" width="350" alt="Languages across public repositories" />
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dakhila201105&theme=react-dark&hide_border=true)](https://github.com/dakhila201105)
+
 </div>
 
 ### My contribution city
